@@ -76,10 +76,11 @@
             // 
             this.lblChosenFigure.AutoSize = true;
             this.lblChosenFigure.Font = new System.Drawing.Font("Book Antiqua", 12F);
-            this.lblChosenFigure.Location = new System.Drawing.Point(80, 466);
+            this.lblChosenFigure.Location = new System.Drawing.Point(3, 131);
             this.lblChosenFigure.Name = "lblChosenFigure";
-            this.lblChosenFigure.Size = new System.Drawing.Size(0, 24);
+            this.lblChosenFigure.Size = new System.Drawing.Size(87, 24);
             this.lblChosenFigure.TabIndex = 2;
+            this.lblChosenFigure.Text = "Chosen: ";
             // 
             // btnDrawRhomb
             // 
@@ -87,7 +88,7 @@
             this.btnDrawRhomb.Font = new System.Drawing.Font("Book Antiqua", 12F);
             this.btnDrawRhomb.ImageIndex = 0;
             this.btnDrawRhomb.ImageList = this.imgList;
-            this.btnDrawRhomb.Location = new System.Drawing.Point(31, 372);
+            this.btnDrawRhomb.Location = new System.Drawing.Point(32, 398);
             this.btnDrawRhomb.Name = "btnDrawRhomb";
             this.btnDrawRhomb.Size = new System.Drawing.Size(150, 38);
             this.btnDrawRhomb.TabIndex = 12;
@@ -108,7 +109,7 @@
             this.btnDrawLine.Font = new System.Drawing.Font("Book Antiqua", 12F);
             this.btnDrawLine.ImageIndex = 0;
             this.btnDrawLine.ImageList = this.imgList;
-            this.btnDrawLine.Location = new System.Drawing.Point(32, 328);
+            this.btnDrawLine.Location = new System.Drawing.Point(33, 354);
             this.btnDrawLine.Name = "btnDrawLine";
             this.btnDrawLine.Size = new System.Drawing.Size(150, 38);
             this.btnDrawLine.TabIndex = 11;
@@ -123,7 +124,7 @@
             this.btnDrawRect.Font = new System.Drawing.Font("Book Antiqua", 12F);
             this.btnDrawRect.ImageIndex = 0;
             this.btnDrawRect.ImageList = this.imgList;
-            this.btnDrawRect.Location = new System.Drawing.Point(31, 284);
+            this.btnDrawRect.Location = new System.Drawing.Point(32, 310);
             this.btnDrawRect.Name = "btnDrawRect";
             this.btnDrawRect.Size = new System.Drawing.Size(150, 38);
             this.btnDrawRect.TabIndex = 10;
@@ -138,7 +139,7 @@
             this.btnTriangle.Font = new System.Drawing.Font("Book Antiqua", 12F);
             this.btnTriangle.ImageIndex = 0;
             this.btnTriangle.ImageList = this.imgList;
-            this.btnTriangle.Location = new System.Drawing.Point(32, 240);
+            this.btnTriangle.Location = new System.Drawing.Point(33, 266);
             this.btnTriangle.Name = "btnTriangle";
             this.btnTriangle.Size = new System.Drawing.Size(150, 38);
             this.btnTriangle.TabIndex = 9;
@@ -153,7 +154,7 @@
             this.btnDrawEllipse.Font = new System.Drawing.Font("Book Antiqua", 12F);
             this.btnDrawEllipse.ImageIndex = 0;
             this.btnDrawEllipse.ImageList = this.imgList;
-            this.btnDrawEllipse.Location = new System.Drawing.Point(32, 196);
+            this.btnDrawEllipse.Location = new System.Drawing.Point(33, 222);
             this.btnDrawEllipse.Name = "btnDrawEllipse";
             this.btnDrawEllipse.Size = new System.Drawing.Size(150, 38);
             this.btnDrawEllipse.TabIndex = 8;
@@ -168,7 +169,7 @@
             this.btnDrawCircle.Font = new System.Drawing.Font("Book Antiqua", 12F);
             this.btnDrawCircle.ImageIndex = 0;
             this.btnDrawCircle.ImageList = this.imgList;
-            this.btnDrawCircle.Location = new System.Drawing.Point(32, 152);
+            this.btnDrawCircle.Location = new System.Drawing.Point(33, 178);
             this.btnDrawCircle.Name = "btnDrawCircle";
             this.btnDrawCircle.Size = new System.Drawing.Size(150, 38);
             this.btnDrawCircle.TabIndex = 2;
@@ -198,6 +199,7 @@
             this.DoubleBuffered = true;
             this.Name = "frmMain";
             this.Text = "Figures";
+            this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.frmMain_MouseUp);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
