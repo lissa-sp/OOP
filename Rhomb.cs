@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    public class Rhomb : Figure
+    internal class Rhomb : Figure
     {
         public int width;
         public int height;

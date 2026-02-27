@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    public class Line : Figure
+    internal class Line : Figure
     {
         public int endPointX;
         public int endPointY;

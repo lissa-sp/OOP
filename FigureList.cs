@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    public class FigureList
+    internal class FigureList
     {
         private List<Figure> figures = new List<Figure>();
 

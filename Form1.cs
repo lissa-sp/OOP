@@ -19,8 +19,31 @@ namespace Lab1
         {
             InitializeComponent();
 
+            AddStaticFigures();
+
             // Подключаем обработчик события Paint
             this.Paint += Form1_Paint;
+        }
+
+        private void AddStaticFigures()
+        {
+            Circle circle = new Circle(300, 100, Color.Red, 50);
+            figureList.Add(circle);
+
+            Rect rect = new Rect(400, 200, Color.Blue, 100, 80);
+            figureList.Add(rect);
+
+            Triangle triangle = new Triangle(250, 300, Color.Green, 70, 60);
+            figureList.Add(triangle);
+
+            Rhomb rhomb = new Rhomb(450, 350, Color.Orange, 80, 60);
+            figureList.Add(rhomb);
+
+            Ellipse ellipse = new Ellipse(550, 150, Color.Purple, 90, 50);
+            figureList.Add(ellipse);
+
+            Line line = new Line(200, 400, Color.Black, 500, 420);
+            figureList.Add(line);
         }
 
         private void Form1_Paint(object sender, PaintEventArgs e)

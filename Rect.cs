@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    public class Rect : Figure
+    internal class Rect : Figure
     {
         public int width;
         public int height;

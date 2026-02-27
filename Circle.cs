@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    public class Circle : Figure
+    internal class Circle : Figure
     {
         public int radius;
 

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    public class Ellipse : Figure
+    internal class Ellipse : Figure
     {
         public int width;
         public int height;

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    public class Triangle : Figure
+    internal class Triangle : Figure
     {
         public int width;
         public int height;

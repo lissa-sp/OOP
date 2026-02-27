@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    public abstract class Figure
+    internal abstract class Figure
     {
         public int centerX; 
         public int centerY;
