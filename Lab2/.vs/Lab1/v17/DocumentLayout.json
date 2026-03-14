@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\linedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:linedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\rectdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:rectdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\rhombdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:rhombdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\triangledrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:triangledrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|c:\\users\\liza\\desktop\\bsuir\\4 sem\\ootpisp\\lab2\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\figurelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:figurelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\rhomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:rhomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\circledrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:circledrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\ellipsedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:ellipsedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\drawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F481CA-FD9B-42D9-85B5-70C765B0ADEE}|Lab1.csproj|solutionrelative:drawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Figure.cs",
+              "RelativeDocumentMoniker": "Figure.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Figure.cs",
+              "RelativeToolTip": "Figure.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:15:47.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rect.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Rect.cs",
+              "RelativeDocumentMoniker": "Rect.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Rect.cs",
+              "RelativeToolTip": "Rect.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:15:13.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Line.cs",
+              "RelativeDocumentMoniker": "Line.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Line.cs",
+              "RelativeToolTip": "Line.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:14:42.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ellipse.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Ellipse.cs",
+              "RelativeDocumentMoniker": "Ellipse.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Ellipse.cs",
+              "RelativeToolTip": "Ellipse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:14:31.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:14:19.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TriangleDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\TriangleDrawer.cs",
+              "RelativeDocumentMoniker": "TriangleDrawer.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\TriangleDrawer.cs",
+              "RelativeToolTip": "TriangleDrawer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:49:55.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RhombDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\RhombDrawer.cs",
+              "RelativeDocumentMoniker": "RhombDrawer.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\RhombDrawer.cs",
+              "RelativeToolTip": "RhombDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:47:31.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RectDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\RectDrawer.cs",
+              "RelativeDocumentMoniker": "RectDrawer.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\RectDrawer.cs",
+              "RelativeToolTip": "RectDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:42:08.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LineDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\LineDrawer.cs",
+              "RelativeDocumentMoniker": "LineDrawer.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\LineDrawer.cs",
+              "RelativeToolTip": "LineDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:40:16.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T18:11:12.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FigureList.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\FigureList.cs",
+              "RelativeDocumentMoniker": "FigureList.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\FigureList.cs",
+              "RelativeToolTip": "FigureList.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:06:03.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rhomb.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Rhomb.cs",
+              "RelativeDocumentMoniker": "Rhomb.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Rhomb.cs",
+              "RelativeToolTip": "Rhomb.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:15:22.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Triangle.cs",
+              "RelativeDocumentMoniker": "Triangle.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Triangle.cs",
+              "RelativeToolTip": "Triangle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:15:31.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EllipseDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\EllipseDrawer.cs",
+              "RelativeDocumentMoniker": "EllipseDrawer.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\EllipseDrawer.cs",
+              "RelativeToolTip": "EllipseDrawer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:31:50.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CircleDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\CircleDrawer.cs",
+              "RelativeDocumentMoniker": "CircleDrawer.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\CircleDrawer.cs",
+              "RelativeToolTip": "CircleDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:28:11.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Drawer.cs",
+              "DocumentMoniker": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Drawer.cs",
+              "RelativeDocumentMoniker": "Drawer.cs",
+              "ToolTip": "C:\\Users\\Liza\\Desktop\\BSUIR\\4 sem\\ootpisp\\Lab2\\Drawer.cs",
+              "RelativeToolTip": "Drawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:24:54.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
