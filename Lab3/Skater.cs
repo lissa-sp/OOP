@@ -1,26 +1,23 @@
+using System.Collections.Generic;
 using System.IO;
 
 namespace Lab3
 {
-    /// <summary>Represents a skater athlete with a skating discipline and personal best score.</summary>
     internal class Skater : Sportsman
     {
-        /// <summary>Skating discipline, e.g. "Ice", "Roller", "Speed".</summary>
         public string SkatingType { get; set; }
-        public int BestScore { get; set; }
+        public int    BestScore   { get; set; }
 
-        /// <summary>Parameterless constructor required by PersonFactory for deserialization.</summary>
-        internal Skater() : base()
-        {
-            SkatingType = "";
+        internal Skater() : base() { 
+            SkatingType = ""; 
         }
 
         internal Skater(string name, int age, string sex, int medals, int years,
-            string skatingType, int bestScore)
+                        string skatingType, int bestScore)
             : base(name, age, sex, medals, years)
         {
             SkatingType = skatingType;
-            BestScore = bestScore;
+            BestScore   = bestScore;
         }
 
         public override string TypeName() => "Skater";
@@ -28,20 +25,25 @@ namespace Lab3
         public override string GetDetails() =>
             $"Type: {SkatingType}, Best score: {BestScore}, {base.GetDetails()}";
 
-        /// <summary>Writes Skater fields: base Sportsman fields, then SkatingType and BestScore.</summary>
-        public override void WriteBinary(BinaryWriter writer)
+        public override IEnumerable<FieldDescriptor> GetFields()
         {
-            base.WriteBinary(writer);
-            writer.Write(SkatingType ?? "");
-            writer.Write(BestScore);
+            foreach (var f in base.GetFields()) yield return f;
+            yield return new StringField("Skating type", () => SkatingType, v => SkatingType = v);
+            yield return new IntField   ("Best score",   () => BestScore,   v => BestScore   = v, 0, 99_999);
         }
 
-        /// <summary>Reads Skater fields: base Sportsman fields, then SkatingType and BestScore.</summary>
-        public override void ReadBinary(BinaryReader reader)
+        public override void WriteBinary(BinaryWriter w)
         {
-            base.ReadBinary(reader);
-            SkatingType = reader.ReadString();
-            BestScore = reader.ReadInt32();
+            base.WriteBinary(w);
+            w.Write(SkatingType ?? "");
+            w.Write(BestScore);
+        }
+
+        public override void ReadBinary(BinaryReader r)
+        {
+            base.ReadBinary(r);
+            SkatingType = r.ReadString();
+            BestScore   = r.ReadInt32();
         }
     }
 }

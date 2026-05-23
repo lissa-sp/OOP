@@ -123,7 +123,7 @@ namespace Lab1
             creator = new EllipseCreator();
         }
 
-        private void btnTriangle_Click(object sender, EventArgs e)
+        private void btnDrawTriangle_Click(object sender, EventArgs e)
         {
             chosenFigure = "Triangle";
             lblChosenFigure.Text = "Chosen: " + chosenFigure;

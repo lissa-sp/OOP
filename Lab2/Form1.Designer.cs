@@ -37,7 +37,7 @@
             this.imgList = new System.Windows.Forms.ImageList(this.components);
             this.btnDrawLine = new System.Windows.Forms.Button();
             this.btnDrawRect = new System.Windows.Forms.Button();
-            this.btnTriangle = new System.Windows.Forms.Button();
+            this.btnDrawTriangle = new System.Windows.Forms.Button();
             this.btnDrawEllipse = new System.Windows.Forms.Button();
             this.btnDrawCircle = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
@@ -62,7 +62,7 @@
             this.panel1.Controls.Add(this.btnDrawRhomb);
             this.panel1.Controls.Add(this.btnDrawLine);
             this.panel1.Controls.Add(this.btnDrawRect);
-            this.panel1.Controls.Add(this.btnTriangle);
+            this.panel1.Controls.Add(this.btnDrawTriangle);
             this.panel1.Controls.Add(this.btnDrawEllipse);
             this.panel1.Controls.Add(this.btnDrawCircle);
             this.panel1.Controls.Add(this.btnClear);
@@ -133,20 +133,20 @@
             this.btnDrawRect.UseVisualStyleBackColor = false;
             this.btnDrawRect.Click += new System.EventHandler(this.btnDrawRect_Click);
             // 
-            // btnTriangle
+            // btnDrawTriangle
             // 
-            this.btnTriangle.BackColor = System.Drawing.Color.White;
-            this.btnTriangle.Font = new System.Drawing.Font("Book Antiqua", 12F);
-            this.btnTriangle.ImageIndex = 0;
-            this.btnTriangle.ImageList = this.imgList;
-            this.btnTriangle.Location = new System.Drawing.Point(33, 266);
-            this.btnTriangle.Name = "btnTriangle";
-            this.btnTriangle.Size = new System.Drawing.Size(150, 38);
-            this.btnTriangle.TabIndex = 9;
-            this.btnTriangle.Text = "Triangle";
-            this.btnTriangle.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.btnTriangle.UseVisualStyleBackColor = false;
-            this.btnTriangle.Click += new System.EventHandler(this.btnTriangle_Click);
+            this.btnDrawTriangle.BackColor = System.Drawing.Color.White;
+            this.btnDrawTriangle.Font = new System.Drawing.Font("Book Antiqua", 12F);
+            this.btnDrawTriangle.ImageIndex = 0;
+            this.btnDrawTriangle.ImageList = this.imgList;
+            this.btnDrawTriangle.Location = new System.Drawing.Point(33, 266);
+            this.btnDrawTriangle.Name = "btnDrawTriangle";
+            this.btnDrawTriangle.Size = new System.Drawing.Size(150, 38);
+            this.btnDrawTriangle.TabIndex = 9;
+            this.btnDrawTriangle.Text = "Triangle";
+            this.btnDrawTriangle.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.btnDrawTriangle.UseVisualStyleBackColor = false;
+            this.btnDrawTriangle.Click += new System.EventHandler(this.btnDrawTriangle_Click);
             // 
             // btnDrawEllipse
             // 
@@ -214,7 +214,7 @@
         private System.Windows.Forms.Button btnDrawCircle;
         private System.Windows.Forms.ImageList imgList;
         private System.Windows.Forms.Button btnDrawEllipse;
-        private System.Windows.Forms.Button btnTriangle;
+        private System.Windows.Forms.Button btnDrawTriangle;
         private System.Windows.Forms.Button btnDrawRhomb;
         private System.Windows.Forms.Button btnDrawLine;
         private System.Windows.Forms.Button btnDrawRect;
